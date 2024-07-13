@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "App Driver",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 1.4,
+    "downloads": 10000,
+    "uploadDate": "12/06/2015",
+    "lastRelease": "12/07/2015"
+  },
+  {
+    "id": 2,
+    "name": "App Geo",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 5.4,
+    "downloads": 10000,
+    "uploadDate": "12/06/2014",
+    "lastRelease": "12/07/2024"
+  },
+  {
+    "id": 3,
+    "name": "App Alwa",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.4,
+    "downloads": 10000,
+    "uploadDate": "12/06/2014",
+    "lastRelease": "12/09/2014"
+  },
+  {
+    "id": 4,
+    "name": "App Track",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.4,
+    "downloads": 10000,
+    "uploadDate": "12/06/2014",
+    "lastRelease": "12/06/2024"
+  }
+]
